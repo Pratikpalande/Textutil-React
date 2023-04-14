@@ -1,0 +1,32 @@
+h2{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+.btn:hover{
+     background-color: blueviolet;
+}
+#btn1:hover{
+    color: black;
+    background-color: rgb(231, 205, 254);
+}
+#btn2:hover{
+    color: black;
+    background-color: rgb(231, 205, 254);
+}
+#btn3:hover{
+    color: black;
+    background-color: rgb(231, 205, 254);
+}
+#btn3{
+    float:right;
+
+}
+#btn2{
+    margin: auto;
+}
+label{
+    color:black
+}
+
